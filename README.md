@@ -20,15 +20,15 @@
 
 **Attributes of business dataset are as following:**
 
-business_id: ID of the business
-name: name of the business
-address: address of the business
-city: city of the business
-state: state of the business
-postal_code: postal code of the business
-latitude: latitude of the business
-longitude: longitude of the business
-stars: average rating of the business
-review_count: number of reviews received
-is_open: 1 if the business is open, 0 therwise
-categories: multiple categories of the business
+- business_id: ID of the business
+- name: name of the business
+- address: address of the business
+- city: city of the business
+- state: state of the business
+- postal_code: postal code of the business
+- latitude: latitude of the business
+- longitude: longitude of the business
+- stars: average rating of the business
+- review_count: number of reviews received
+- is_open: 1 if the business is open, 0 therwise
+- categories: multiple categories of the business
